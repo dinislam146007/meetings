@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "helical-land-411109",
+  "private_key_id": "51ccbb9f22219027d1db16ea6b014f28e5abd27a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDv9/AFaMyz7DSH\nVsRIZI2qHqmMfgSD+05VC4x2LriK1MXm/Qcb9JodkKlY6a0VxV6gTBLpa5YMFuDS\nqVKGpErEtPklPO32h+nrI9A3OoFgSMFD8tDPZ+4fROBm4/Te5JdAad5UwauzfH4s\nj+vGIfbm83G47lr6332VCueZoxYjMtwCufNkRjMeVb3LR1BI1p67GloUJKStWiSQ\nMQk1Jeb4mPFiyXn0j3fbsEZqRlkb7GjWh7BJVw740xNHiURQaf78cN4QSPQ03YXm\nPnPWibn9WuGxAQa0cFLWaawXHL+WbJ6vqq1r2MJws/cKtplTGeXpJL+924+gerAd\nJAL9WoKzAgMBAAECggEAYHBCE8p0SfKpgaKLK5TNogrElOOoKOp8Jo2Hm49XNuQf\nzJ7vlnqM3Ujf5g2zM8aoKr+n8gr8uEsRe1f1BItOSRN59U8xSxyAE7HG4gsvJ2TV\n1trktBXOit6BWJhQNqujZY2mfmV+/ZkQlBQa6vuHYHWBxJJ2GdBrhdRmE0aJhQcK\nTX+Fta/p17B5k3DfyTtvRQlSHESNc7ToeUJJlcbdDVYulVdn1bEyMRs7Wf1+xOqb\n4y4OcByZl/RuylAe0DOqh+FAbGI4OGyb4TnQcClTZo/dvDXr53J7PNs6sF2ikhgm\nZ1TH6MpxRKtPHfwHs0Nv3wdEaLEJazxyixXDibxNIQKBgQD6d8NC6lavjZiP54E2\nY3GWswobxnjTz+91AJxBMe/d1hcGRmg+A6GtiEMoR+k/r+/I1aD5LW73MjG6v26c\n/e4nl2X/pQOZuz8pjWW3VbqIa5nQb1WDiuEFHL17H6gSLlkuxcfbUAfrDwhKGhHM\nII7Ke+KEil+mygJamoSGrNL2aQKBgQD1RM7OmI5+2G3aeasMe1IDuxOxRe2BRtWL\nISMwA4SLTOSsHJz64rVgtSeY5x984+Vx+P1nrVztfUjPiJnHEF1zPw9CXIyEEc2Y\nkpDVIiQNPONWJlJhddFLXC7eXymwk+y1akreawdZcOfX2Z26hdm1tt2KJUxq4tDE\nUgpbwhPkuwKBgCK+aDypCxtRFf+oSnlD9CbGcTmHH42qQ3pEemhkx/RK1WjObXlk\nwZGz3DUDPKzT9/ww/iJylfj+Yn2YPnzSkK23R7PdrREvM0TNU3XKE5UG8BBE0WTs\n5+fwo6wnqQXUnhRp5R5cDK0jqa+1zBA31/bolnRySXB2hzsQQh/4a085AoGAcjgw\n9xUkhv3TasLuXUmwz/v3F78w89tA5yHveRSqTRTqCRzqHgwl23uBjTtU9pxK5eDG\nYdniRNbraXp74rBEVL8xI/5lkbuYu0zGFftoPqH0XNJL2wc7CJVNXlGC4LCCs5lk\ndF/zdDuYPHUjdxGOaYlXclYcWEp4XnS2TjT7frECgYBdEWWnsVkeIFmfhUXz96zW\nupplPB/rJwIEc0A21GYBa5N6jlu/7u4l2sgjCo5KXDTcMiQfiXgXv1/UgroxGV20\nnhPg5PdEsR1osFor/tccy4CEAFSKJT85ZZEhBsUnL2vT+ccfA8u0aFkhu4vziDes\nbPbNeGkRY/lsdbDPClwHMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendar-integration@helical-land-411109.iam.gserviceaccount.com",
+  "client_id": "106317391277720371409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendar-integration%40helical-land-411109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
